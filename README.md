@@ -5,10 +5,14 @@ Lilian Njambi,a student a moringa school studying software development. Currentl
 # SETUP INSTRUCTIONS
 # BDD
 # TECHNOLOGIES USED 
+HTML 
+CSS
+JavaScript
 # CONTACT INFORMATION
+njambililian93@gmail.com
 # LICENSE AND COPYRIGHT INFORMATION
-# LICENSE AND COPYRIGHT INFORMATION
-Copyright (c) <2020> <LILIAN NJAMBI>
+Copyright (c) <2020> 
+<LILIAN NJAMBI>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

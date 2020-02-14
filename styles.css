@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(boy.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    height: 150vh;
+    background-repeat: no-repeat;
+}
+h1{
+    color: red;
+}
+#p{
+    color: brown;
+}
+.head{
+    text-align: center;
+    color: black;
+}
+  .one{
+      text-align: center;
+    color: black;
+  }

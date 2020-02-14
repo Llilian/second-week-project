@@ -1,44 +1,48 @@
-<P>
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>My Second Webpage</title>
-        <link href="css/styles.css" rel="stylesheet" type="text/css">
-    </head>
-<body>
-    <h1>MY SECOND WEBPAGE</h1>
+    
+<head>
+  <title>AKAN NAMING SYSTEM</title>
+  <link rel="stylesheet" href="index.css" type="text/css">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <img src="images/twin.jpg" alt="a photo of a boy"
+</head>
+<body style="background-color:powderblue;">
+ 
+    <h1>Akan Naming System</h1>
+   <P>Akan names come from a traditional naming system for people from countries such as Togo, Ivory Coast and Ghana.</p>
+    <p>A child's name is determined by factors surrounding his or her birth.</P> 
+    <p>For example, the day of their birth or the manner in which they were born may determine which name they get irrespective of their gender</p>
+        <p>If curious to know what your Akan name is kindly;</p>
+ 
+ 
 
-    <P>HELLO,</P>
-    <P>WELCOME TO MY SECOND WEBPAGE</body></P>
+ 
+  <div class="one">
+   
+    <h2>Enter Details</h2>
+    <form name="my-day" onsubmit="return validateform()">
+      <p><em>Day</em></p>
+      <input type="text" id="day-to-earth" name="DD" value="">  <br> <br>
+      <p><em>Month</em></p>
+      <input type="text" id="month-to-earth" name="MM" value="">  <br> <br>
+      <p><em>Century</em></p>
+      <input type="text" id="century" name="CC" value="">   <br> <br>
+      <p><em>Year</em></p>
+      <input type="text" id="year" name="YY" value="">   <br> <br>
+      
+      
+      
+      <input type="radio" name="gender" value="male"> Male <br> <br> <br>
+      <input type="radio" name="gender" value="female"> Female <br> <br> <br>
+      
+      <input type="submit" name="submit" value="submit">
+    </form>
+  </div>
+</div>
+ 
+  <script src="script.js"></script>
 
-    <p>Below are some questions.When answered a code runs it calculating the day you were born and then depending on your gender gives back your AKan name according to the Ghanian culture</p>
-        <p>Kindly fill out the form </p>
-            <p>
-            <label>First Name:</label>
-            <input type="text"
-              id="myText"
-              value="text here"/>
-            </p>
-            <p>
-               <label>Second name:</label>
-                <input type="text"
-                      id="myText"
-                      value="text here"/>
-            </p>
-            <p>
-                <label>Gender:</label>
-                male
-                <input type="radio" name="male or female">
-                female
-                <input type="radio" name="male or female">
-            </p>
-                <p>
-                <label> Date of Birth:</label>
-                <input type="date"
-                value="your text here"/>
-            </p>
-            <p> 
-                <input type="submit">
-            </p>
-
-
+  
+</body>
 </html>

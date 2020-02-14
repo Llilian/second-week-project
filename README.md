@@ -16,6 +16,7 @@ Lilian Njambi,a student a moringa school studying software development. Currentl
 # CONTACT INFORMATION
 njambililian93@gmail.com
 # LICENSE AND COPYRIGHT INFORMATION
+* MIT LICENSE
 Copyright (c) <2020> 
 <LILIAN NJAMBI>
 

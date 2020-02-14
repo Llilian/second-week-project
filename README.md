@@ -5,9 +5,9 @@ Lilian Njambi,a student a moringa school studying software development. Currentl
 # SETUP INSTRUCTIONS
 # BDD
 # TECHNOLOGIES USED 
-HTML 
-CSS
-JavaScript
+* HTML 
+* CSS
+* JavaScript
 # CONTACT INFORMATION
 njambililian93@gmail.com
 # LICENSE AND COPYRIGHT INFORMATION
